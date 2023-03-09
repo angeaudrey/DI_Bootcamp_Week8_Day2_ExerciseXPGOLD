@@ -11,7 +11,7 @@ ORDER BY title ASC
 
 -- Find a customer in the customer table, and change his/her details to your details, using SQL UPDATE
 UPDATE customer
-SET first_name = 'Michael', last_name = 'Yaps', email = 'michaelyaps@gmail.com'
+SET first_name = 'Ruisha', last_name = 'Kouab', email = 'ruishakouab@gmail.com'
 WHERE customer_id = 5;
 
 -- Now find the customer’s address, and use UPDATE to change the address to your address
